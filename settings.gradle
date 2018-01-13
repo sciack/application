@@ -1,0 +1,7 @@
+rootProject.name = 'real-world-kotlin-workshop'
+
+include ":commons-cli"
+include ":joda-money"
+include ":joda-time"
+include ":snake-yaml"
+
